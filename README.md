@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
 
 ### Familiar Tools
-[![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-%23007ACC?style=flat&logo=Visual-studio)](https://visualstudio.microsoft.com/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![Netbeans](https://img.shields.io/badge/IDE-Netbeans-%23007ACC?style=flat&logo=Netbeans)](https://netbeans.apache.org/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/idea/)
-[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-%23007ACC?style=flat&logo=android-Studio)](https://developer.android.com/studio/)
+[![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-%23007ACC?style=for-the-badge&logo=Visual-studio)](https://visualstudio.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Netbeans](https://img.shields.io/badge/IDE-Netbeans-%23007ACC?style=for-the-badge&logo=Netbeans)](https://netbeans.apache.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=for-the-badge&logo=JetBrains)](https://www.jetbrains.com/idea/)
+[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-%23007ACC?style=for-the-badge&logo=android-Studio)](https://developer.android.com/studio/)
 
-[![Postman](https://img.shields.io/badge/IDE-Postman-%23007ACC?style=flat&logo=postman)](https://developer.android.com/studio/)
-[![XAMPP](https://img.shields.io/badge/IDE-XAMPP-%23007ACC?style=flat&logo=xampp)](https://developer.android.com/studio/)
+[![Postman](https://img.shields.io/badge/IDE-Postman-%23007ACC?style=for-the-badge&logo=postman)](https://developer.android.com/studio/)
+[![XAMPP](https://img.shields.io/badge/IDE-XAMPP-%23007ACC?style=for-the-badge&logo=xampp)](https://developer.android.com/studio/)
 
 
 ### Technologies I Know
@@ -47,21 +47,21 @@ Here are some ideas to get you started:
 [![Spring Boot](https://img.shields.io/badge/-GitHub-%236DB33F?style=flat&logo=github&logoColor=white)](https://spring.io/projects/spring-boot)
 -->
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=C%2B%2B&logoColor=239120)
 
 <!-- ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   
   ## Stats
 
