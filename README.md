@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Social Media Platforms 📱
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white)](mailto:wenurawalker@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wenuradesilva)
 
 ### Familiar Tools
 [![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-%23007ACC?style=for-the-badge&logo=Visual-studio)](https://visualstudio.microsoft.com/)
